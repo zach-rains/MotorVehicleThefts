@@ -1,2 +1,2 @@
 # MotorVehicleThefts
-An analysis of mototr cehicle thefts in New Zealand.
+An analysis of mototr vehicle thefts in New Zealand.
