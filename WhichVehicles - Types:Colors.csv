@@ -1,0 +1,11 @@
+vehicle_type,Red,Blue,Green,Black,White,Yellow,Purple,Other
+"Boat Trailer",0,0,0,3,5,0,0,1
+Hatchback,58,104,24,76,114,0,0,50
+"Light Van",7,5,6,0,104,0,0,6
+Moped,34,18,1,85,25,0,0,13
+Roadbike,51,38,12,105,42,0,0,21
+Saloon,75,125,52,99,160,0,0,43
+Stationwagon,84,142,59,141,159,0,0,53
+Trailer,9,17,22,29,21,0,0,12
+"Trailer - Heavy",0,3,2,1,9,0,0,10
+Utility,45,46,38,36,183,0,0,15
