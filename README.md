@@ -21,7 +21,7 @@ The dataset used in this analysis is sourced from New Zealand Police. It include
 
 # Project Structure
 
-* **data:** Contains the raw data files (if you choose to include them, consider using a smaller sample due to size limitations) and any cleaned/transformed versions.
+* **data:** Contains the raw data files and any cleaned/transformed versions.
 * **scripts:** Contains the SQL scripts used for data manipulation and querying.
 * **analysis:** Contains Excel workbooks with data analysis, visualizations, and the final report.
 * **README.md:** This file, providing an overview of the project.
